@@ -1,0 +1,1 @@
+pipeline to obtain 3 datasets (train, val and test) starting from a sample of q&a samples given by Gemini based on the document sources
